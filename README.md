@@ -2,7 +2,7 @@
 
 
 <p align="center">
-  <!-- Typing SVG by IMTheBale - https://github.com/IMTheBale/readme-typing-svg -->
+  <!-- Typing SVG by IMTheBale -->
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=75&duration=3000&pause=&center=true&multiline=true&repeat=false&width=4200&height=700&lines=Hi%2C+my+name+is++Johnny.;I'm+a+Front+End+Developer+located+in+Israel.;I+love+to+create+simple+yet+beautiful+websites+with+great+user+experience.;I'm+interested+in+the+whole+frontend+stack+Like+trying+new+things+and+building+great+projects.;I'm+an+independent+freelancer+and+blogger%2C+and+I+love+to+play+video+games+and+read+books.;I+believe+everything+is+an+Art+when+you+put+your+consciousness+in+it.;+You+can+connect+with+me+via+social+links." alt="Typing SVG" /></a>
 </p>
 
@@ -12,12 +12,12 @@
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://twitter.com/IMTheBale"><img width="32px" alt="Twitter" title="Twitter" src="https://i.imgur.com/OXZM1L6.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://www.linkedin.com/in/johnny-bale/"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://imgur.com/OQUXwNp"/></a>
+  <a href="https://www.linkedin.com/in/johnny-bale/"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://i.imgur.com/OQUXwNp.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://ko-fi.com/jlawrence"><img width="32px" alt="Ko-fi" title="Buy me a coffee" src="https://i.imgur.com/PpLeD3K.png"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  <blockquote class="imgur-embed-pub" lang="en" data-id="OQUXwNp"  ><a href="//imgur.com/OQUXwNp">Linkedin logo [colored]</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
+  
 </p>
+
+
 
 <br/>
 
