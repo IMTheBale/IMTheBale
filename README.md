@@ -56,12 +56,13 @@
 <img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+<img align="left" alt="Vite" width="30px" style="padding-right:10px;" src="https://vitejs.dev/logo.svg" alt="Vite logo" />
 <br />
 
 #
 
 ### 📊 Stats
 
-![IMTheBale's GitHub stats](https://github-readme-stats.vercel.app/api?username=imthebale&show_icons=true&theme=tokyonight)
+![IMTheBale's GitHub stats](https://github-readme-stats.vercel.app/api?username=imthebale&theme=blue-green)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=imthebale&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=imthebale&theme=blue-green)
