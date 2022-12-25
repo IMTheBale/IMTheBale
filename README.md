@@ -55,6 +55,6 @@
 
 ### 📊 Stats
 
-![IMTheBale's GitHub stats](https://github-readme-stats.vercel.app/api?username=imthebale&show_icons=true&theme=radical)
+![IMTheBale's GitHub stats](https://github-readme-stats.vercel.app/api?username=imthebale&show_icons=true&theme=tokyonight)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=tokyonight)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=imthebale&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
