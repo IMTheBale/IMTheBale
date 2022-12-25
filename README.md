@@ -3,7 +3,7 @@
 
 <p align="center">
   <!-- Typing SVG by IMTheBale -->
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=75&duration=3000&pause=&center=true&multiline=true&width=4200&height=700&lines=Hi%2C+my+name+is++Johnny.;I'm+a+Front+End+Developer+located+in+Israel.;I+love+to+create+simple+yet+beautiful+websites+with+great+user+experience.;I'm+interested+in+the+whole+frontend+stack+Like+trying+new+things+and+building+great+projects.;I'm+an+independent+freelancer+and+blogger%2C+and+I+love+to+play+video+games+and+read+books.;I+believe+everything+is+an+Art+when+you+put+your+consciousness+in+it.;+You+can+connect+with+me+via+social+links." alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Prosto+One&size=75&duration=3000&pause=&center=true&multiline=true&width=4200&height=700&lines=Hi%2C+my+name+is++Johnny.;I'm+a+Front+End+Developer+located+in+Israel.;I+love+to+create+simple+yet+beautiful+websites+with+great+user+experience.;I'm+interested+in+the+whole+frontend+stack+Like+trying+new+things+and+building+great+projects.;I'm+an+independent+freelancer+and+blogger%2C+and+I+love+to+play+video+games+and+read+books.;I+believe+everything+is+an+Art+when+you+put+your+consciousness+in+it.;+You+can+connect+with+me+via+social+links." alt="Typing SVG" /></a>
 </p>
 
 <!-- Social icons section -->
