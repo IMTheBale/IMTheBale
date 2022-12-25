@@ -13,11 +13,8 @@
   <a href="https://twitter.com/IMTheBale"><img width="32px" alt="Twitter" title="Twitter" src="https://i.imgur.com/OXZM1L6.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://www.linkedin.com/in/johnny-bale/"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://i.imgur.com/OQUXwNp.png"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  
+  &#8287;&#8287;&#8287;&#8287;&#8287;  
 </p>
-
-
 
 <br/>
 
@@ -35,7 +32,15 @@
     <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/IMTheBale?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
 </p>
 
+---
 
+- 🌱 I’m currently learning **React, AI, Python, CSS, HTML, JavaScript, TypeScript**
+
+- 👨‍💻 All of my projects are available at [https://john-bale-portfolio.netlify.app/](https://john-bale-portfolio.netlify.app/)
+
+- 💬 Ask me about **something.**
+
+- ⚡ Fun fact **I'm Funny!!!**
 
 
 ---
