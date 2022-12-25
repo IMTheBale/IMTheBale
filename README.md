@@ -8,13 +8,15 @@
 
 <!-- Social icons section -->
 <p align="center">
-  <a href="https://www.youtube.com/c/IMTheBale"><img width="32px" alt="Youtube" title="Youtube" src="https://i.imgur.com/qiXu7b2.png"/></a>
+  <a href="https://www.youtube.com/c/IMTheBale"><img width="32px" alt="Youtube" title="Youtube" src="https://imgur.com/xzVHhFY.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://twitter.com/IMTheBale"><img width="32px" alt="Twitter" title="Twitter" src="https://i.imgur.com/OXZM1L6.png"/></a>
+  <a href="https://twitter.com/IMTheBale"><img width="32px" alt="Twitter" title="Twitter" src="https://imgur.com/srxyrj4.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://www.linkedin.com/in/johnny-bale/"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://i.imgur.com/OQUXwNp.png"/></a>
+  <a href="https://www.linkedin.com/in/johnny-bale/"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://imgur.com/OQUXwNp.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;  
 </p>
+
+
 
 <br/>
 
