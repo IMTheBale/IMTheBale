@@ -37,7 +37,7 @@
 
 - 🌱 I’m currently learning **React, AI, Python, CSS, HTML, JavaScript, TypeScript**
 
-- 👨‍💻 All of my projects are available at [https://john-bale-portfolio.netlify.app/](https://john-bale-portfolio.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://johnny-bale-portfolio.netlify.app/](https://johnny-bale-portfolio.netlify.app/)
 
 - 💬 Ask me about **something.**
 
