@@ -33,6 +33,15 @@
     <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/IMTheBale?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
 </p>
 
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/imthebale/count.svg" />
+</p>
+
+<p align="center">
+  <a href=#><img src="contributions.svg"></a>
+</p>
+
 ---
 
 - 🌱 I’m currently learning **React, AI, Python, CSS, HTML, JavaScript, TypeScript**
