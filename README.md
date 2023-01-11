@@ -34,7 +34,7 @@
 </p>
 
 <p align="center"> 
-  Visitor count<br>
+  <strong>VISITOR COUNT</strong><br>
   <img src="https://profile-counter.glitch.me/imthebale/count.svg" />
 </p>
 
