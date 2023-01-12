@@ -74,3 +74,10 @@
 ![IMTheBale's GitHub stats](https://github-readme-stats.vercel.app/api?username=imthebale&theme=blue-green)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=imthebale&theme=blue-green)
+
+<a href="https://github.com/IMTheBale/IMTheBale">
+   
+![](https://github.com/imthebale/imthebale/blob/master/generated/overview.svg)
+![](https://github.com/imthebale/imthebale/blob/master/generated/languages.svg)
+
+</a>
