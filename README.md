@@ -71,6 +71,4 @@
 
 ### 📊 Stats
 
-![IMTheBale's GitHub stats](https://github-readme-stats.vercel.app/api?username=imthebale&theme=blue-green)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=imthebale&theme=blue-green)
+<a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=github&theme=github-dark">    <img  alt="IMTheBale's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/IMTheBale?cardType=github&theme=github-dark" /></a>
