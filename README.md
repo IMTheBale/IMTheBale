@@ -1,6 +1,5 @@
 ![Neon Modern Gaming Desktop Background Twich Banner](https://user-images.githubusercontent.com/103919889/209466017-de50c7d6-6b58-489e-980d-e9673705074d.png)
 
-
 <p align="center">
   <!-- Typing SVG by IMTheBale -->
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=4000&center=true&multiline=true&repeat=false&width=1250&height=250&lines=Welcomes+You!!!;I'm+a+Web+Developer+located+in+Israel.+;I+love+to+create+simple+yet+beautiful+websites+with+great+user+experience.;I'm+interested+in+the+whole+frontend+stack+Like+trying+new+things+and+building+great+projects.;I'm+an+independent+freelancer+and+blogger.+I+love+to+play+video+games+and+read+books.;I+believe+everything+is+an+Art+when+you+put+your+consciousness+in+it.;You+can+connect+with+me+via+social+links" alt="Typing SVG" /></a>
@@ -15,8 +14,6 @@
   <a href="https://www.linkedin.com/in/johnny-bale/"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://imgur.com/OQUXwNp.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;  
 </p>
-
-
 
 <br/>
 
@@ -71,9 +68,9 @@
 
 ### 📊 Stats
 
-<a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=github&theme=github-dark">    <img  alt="IMTheBale's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/IMTheBale?cardType=github&theme=github-dark" /></a>
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=imthebale&langs_count=8)](https://github.com/imthebale/github-readme-stats)
-
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=IMTheBale&theme=2077)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=IMTheBale&theme=2077)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=IMTheBale&theme=2077)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=IMTheBale&theme=2077)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=IMTheBale&theme=2077&utcOffset=8)
 
