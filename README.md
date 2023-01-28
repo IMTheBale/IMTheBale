@@ -1,5 +1,4 @@
-
-![github-header-image](https://user-images.githubusercontent.com/103919889/215057038-e31aa762-0196-49c3-a57e-a8fa451912c2.png)
+![github-header-image](https://user-images.githubusercontent.com/103919889/215218600-489144c9-bc8f-488e-81a5-7f216d476856.png)
 
 
 
@@ -10,8 +9,8 @@
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://twitter.com/IMTheBale"><img width="32px" alt="Twitter" title="Twitter" src="https://imgur.com/srxyrj4.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://www.linkedin.com/in/johnny-bale/"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://imgur.com/OQUXwNp.png"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;  
+  <a href="https://www.linkedin.com/in/johnny-bale/">
+	<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn badge"/>
 </p>
 
 <br/>
