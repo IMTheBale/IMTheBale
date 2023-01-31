@@ -5,10 +5,9 @@
 
 <!-- Social icons section -->
 <p align="center">
-  <a href="https://www.youtube.com/c/IMTheBale"><img width="32px" alt="Youtube" title="Youtube" src="https://imgur.com/xzVHhFY.png"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://twitter.com/IMTheBale"><img width="32px" alt="Twitter" title="Twitter" src="https://imgur.com/srxyrj4.png"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
+  
+  <a href="https://twitter.com/IMTheBale">
+	<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter badge"/>
   <a href="https://www.linkedin.com/in/johnny-bale/">
 	<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn badge"/>
 </p>
