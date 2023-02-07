@@ -5,10 +5,6 @@
 
 <!-- Social icons section -->
 <p align="center">
-	
-	
-
-  
   <a href="https://twitter.com/IMTheBale">
 	<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter badge"/>
   <a href="https://www.linkedin.com/in/johnny-bale/">
@@ -40,7 +36,12 @@
 </p>
 
 ---
+### 👨🏼‍💻 About Me!
 
+- 📕 I'm a Web Developer located in Israel. I love to create simple yet beautiful websites with great user experience.
+	  I'm interested in the whole frontend stack Like trying new things and building great projects. I'm an independent freelancer and blogger. I love to play video games and read books.
+	  I believe everything is an Art when you put your consciousness in it.
+	  
 - 🌱 I’m currently learning **React, AI, Python, CSS, HTML, JavaScript, TypeScript**
 
 - 👨‍💻 All of my projects are available at [https://johnny-bale-portfolio.netlify.app/](https://johnny-bale-portfolio.netlify.app/)
@@ -74,9 +75,12 @@
 
 ### 📊 Stats
 
+<div align="center">
+
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=IMTheBale&theme=2077)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=IMTheBale&theme=2077)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=IMTheBale&theme=2077)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=IMTheBale&theme=2077)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=IMTheBale&theme=2077&utcOffset=8)
+	  </div>
 
