@@ -16,23 +16,25 @@
 <!-- Social badges section -->
 
 <p align="center">
-  <a href="https://www.twitch.tv/imthebale" target="_blank">
-    <img alt="Twitch Followers" title="Twitch Followers" src="https://img.shields.io/badge/Twitch-Followers%20%7C%20YOUR_FOLLOWERS_COUNT-9147FF?style=for-the-badge&logo=twitch" />
-  </a>
-  <a href="https://www.twitch.tv/imthebale" target="_blank">
-    <img alt="Twitch Views" title="Twitch Views" src="https://img.shields.io/badge/Twitch-Views%20%7C%20YOUR_VIEWS_COUNT-9147FF?style=for-the-badge&logo=twitch" />
-  </a>
-
-
+<a href="https://www.twitch.tv/imthebale">
+  <img alt="twitch followers" title="Follow me on Twitch" src="https://camo.githubusercontent.com/ec779aec0f1b6eaa5d10682a8fb54c96525e9074461254165f4e7d4295f7d4d7/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f5477697463682d3931343646463f7374796c653d666f722d7468652d6261646765266c6f676f3d747769746368266c6f676f436f6c6f723d7768697465"/>
+</a>
   <a href="https://www.youtube.com/c/IMTheBale?sub_confirmation=1">
-    <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UC6W9E9vr8_xvz0qx-jDthLA?color=%23E05D44&label=SUBSCRIBE&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"/></a>
+    <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UC6W9E9vr8_xvz0qx-jDthLA?color=%23E05D44&label=SUBSCRIBE&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"/>
+  </a>
   <a href="https://www.youtube.com/c/IMTheBale">
-    <img alt="youtube views" title="YouTube views" src="https://custom-icon-badges.demolab.com/youtube/channel/views/UC6W9E9vr8_xvz0qx-jDthLA?color=%23E1AD0E&logo=video&logoColor=white&style=for-the-badge&labelColor=C79600"/></a> 
+    <img alt="youtube views" title="YouTube views" src="https://custom-icon-badges.demolab.com/youtube/channel/views/UC6W9E9vr8_xvz0qx-jDthLA?color=%23E1AD0E&logo=video&logoColor=white&style=for-the-badge&labelColor=C79600"/>
+  </a>
   <a href="https://github.com/IMTheBale?tab=repositories&sort=stargazers">
-    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/IMTheBale?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
+    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/IMTheBale?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/>
+  </a>
   <a href="https://github.com/IMTheBale?tab=followers">
-    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/IMTheBale?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
+    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/IMTheBale?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/>
+  </a>
 </p>
+
+
+
 
 <p align="center"> 
   <strong>VISITOR COUNT</strong><br>
