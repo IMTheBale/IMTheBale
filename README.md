@@ -16,9 +16,6 @@
 <!-- Social badges section -->
 
 <p align="center">
-<a href="https://www.twitch.tv/imthebale">
-  <img alt="twitch followers" title="Follow me on Twitch" src="https://camo.githubusercontent.com/ec779aec0f1b6eaa5d10682a8fb54c96525e9074461254165f4e7d4295f7d4d7/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f5477697463682d3931343646463f7374796c653d666f722d7468652d6261646765266c6f676f3d747769746368266c6f676f436f6c6f723d7768697465"/>
-</a>
   <a href="https://www.youtube.com/c/IMTheBale?sub_confirmation=1">
     <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UC6W9E9vr8_xvz0qx-jDthLA?color=%23E05D44&label=SUBSCRIBE&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"/>
   </a>
