@@ -45,18 +45,13 @@
 ---
 ### 👨🏼‍💻 About Me!
 
-- 📕 I'm a Web Developer located in Israel. I love to create simple yet beautiful websites with great user experience.
-	  I'm interested in the whole frontend stack Like trying new things and building great projects. I'm an independent freelancer and blogger. I love to play video games and read books.
-	  I believe everything is an Art when you put your consciousness in it.
+- 📕 I’m a Full Stack Web Developer based in Israel. I specialize in creating robust and user-friendly websites with a seamless user experience. My interests span the entire development stack, from crafting engaging front-end interfaces to building efficient back-end systems.
+
+As an independent freelancer and avid blogger, I enjoy experimenting with new technologies and taking on challenging projects. I work well both independently and as part of a team, adapting to different workflows and collaboration styles. When I’m not coding, you can find me playing video games or immersed in a good book. I believe that with passion and dedication, anything can be transformed into art. Feel free to connect with me via social media!
 	  
-- 🌱 I’m currently learning **React, AI, Python, CSS, HTML, JavaScript, TypeScript**
+- 🌱 I’m currently learning **Python | React | JS | HTML | CSS | TS | Flask | Node.js | AI**
 
 - 👨‍💻 All of my projects are available at [https://johnny-bale-portfolio.netlify.app/](https://johnny-bale-portfolio.netlify.app/)
-
-- 💬 Ask me about **something.**
-
-- ⚡ Fun fact **I'm Funny!!!**
-
 
 ---
 
