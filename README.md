@@ -70,7 +70,7 @@
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=IMTheBale&theme=2077" alt="Profile Details">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=IMTheBale&theme=2077" alt="Repos Per Language">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=IMTheBale&theme=2077" alt="Most Commit Language">
-  <img src="http://github-profile-summary-ccards.vercel.app/api/cards/stats?username=IMTheBale&theme=2077" alt="Stats">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=IMTheBale&theme=2077" alt="Stats">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=IMTheBale&theme=2077&utcOffset=8" alt="Productive Time">
 </div>
 
