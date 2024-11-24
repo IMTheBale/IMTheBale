@@ -45,15 +45,15 @@
 
 <div align="center">
 	<p align="center">
-  <code><img height="50" src="https://user-images.githubusercontent.com/25181517/192108374-8da61ba1-99ec-41d7-80b8-fb2f7c0a4948.png" alt="GitHub"></code>
-  <code><img height="50" src="https://user-images.githubusercontent.com/25181517/183897015-94a058a6-b86e-4e42-a37f-bf92061753e5.png" alt="React"></code>
-  <code><img height="50" src="https://user-images.githubusercontent.com/25181517/183890598-19a0ac2d-e88a-4005-a8df-1ee36782fde1.png" alt="TypeScript"></code>
-  <code><img height="50" src="https://user-images.githubusercontent.com/25181517/183423507-c056a6f9-1ba8-4312-a350-19bcbc5a8697.png" alt="Python"></code>
-  <code><img height="50" src="https://user-images.githubusercontent.com/25181517/117447155-6a868a00-af3d-11eb-9cfe-245df15c9f3f.png" alt="JavaScript"></code>
-  <code><img height="50" src="https://user-images.githubusercontent.com/25181517/183898674-75a4a1b1-f960-4ea9-abcb-637170a00a75.png" alt="CSS"></code>
-  <code><img height="50" src="https://user-images.githubusercontent.com/25181517/192384742-9f7ff70d-5a12-46a5-8c6b-c41e717f7a91.png" alt="Vite"></code>
-  <code><img height="50" src="https://user-images.githubusercontent.com/25181517/192395173-f11b28c3-53d4-4da4-bc29-78f3d3197d77.png" alt="Tailwind CSS"></code>
-  <code><img height="50" src="https://user-images.githubusercontent.com/25181517/183890602-595a25d5-2145-43bb-8767-58e99d5a67fd.png" alt="HTML"></code>
+  <code><img height="50" width="50" src="https://user-images.githubusercontent.com/25181517/192108374-8da61ba1-99ec-41d7-80b8-fb2f7c0a4948.png" alt="GitHub"></code>
+  <code><img height="50" width="50" src="https://user-images.githubusercontent.com/25181517/183897015-94a058a6-b86e-4e42-a37f-bf92061753e5.png" alt="React"></code>
+  <code><img height="50" width="50" src="https://user-images.githubusercontent.com/25181517/183890598-19a0ac2d-e88a-4005-a8df-1ee36782fde1.png" alt="TypeScript"></code>
+  <code><img height="50" width="50" src="https://user-images.githubusercontent.com/25181517/183423507-c056a6f9-1ba8-4312-a350-19bcbc5a8697.png" alt="Python"></code>
+  <code><img height="50" width="50" src="https://user-images.githubusercontent.com/25181517/117447155-6a868a00-af3d-11eb-9cfe-245df15c9f3f.png" alt="JavaScript"></code>
+  <code><img height="50" width="50" src="https://user-images.githubusercontent.com/25181517/183898674-75a4a1b1-f960-4ea9-abcb-637170a00a75.png" alt="CSS"></code>
+  <code><img height="50" width="50" src="https://cdn.jsdelivr.net/gh/justinmusk/vite-logo@master/vite.svg" alt="Vite"></code>
+  <code><img height="50" width="50" src="https://cdn.jsdelivr.net/gh/TailwindToolbox/tailwind-logos@main/logos/colored/tailwindcss-icon.png" alt="Tailwind CSS"></code>
+  <code><img height="50" width="50" src="https://upload.wikimedia.org/wikipedia/commons/6/6a/HTML5_logo_and_wordmark.svg" alt="HTML"></code>
 </p>
 
 </div>
@@ -70,7 +70,7 @@
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=IMTheBale&theme=2077" alt="Profile Details">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=IMTheBale&theme=2077" alt="Repos Per Language">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=IMTheBale&theme=2077" alt="Most Commit Language">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=IMTheBale&theme=2077" alt="Stats">
+  <img src="http://github-profile-summary-ccards.vercel.app/api/cards/stats?username=IMTheBale&theme=2077" alt="Stats">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=IMTheBale&theme=2077&utcOffset=8" alt="Productive Time">
 </div>
 
